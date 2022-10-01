@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-25T11:36:50 PDT" name="Default suite" finished-at="2022-05-25T11:37:06 PDT" duration-ms="15980">
+    <groups>
+    </groups>
+    <test started-at="2022-05-25T11:36:50 PDT" name="Default test" finished-at="2022-05-25T11:37:06 PDT" duration-ms="15980">
+      <class name="com.apex.samples1.RegistrationTestDemoBlaze">
+        <test-method signature="testRegistrationWithSuccessfulData()[pri:1, instance:com.apex.samples1.RegistrationTestDemoBlaze@73700b80]" started-at="2022-05-25T11:36:50 PDT" name="testRegistrationWithSuccessfulData" finished-at="2022-05-25T11:37:06 PDT" duration-ms="15864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistrationWithSuccessfulData -->
+      </class> <!-- com.apex.samples1.RegistrationTestDemoBlaze -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
